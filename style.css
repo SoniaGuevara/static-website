@@ -25,7 +25,7 @@ header {
 }
 
 .main-nav li a {
-	color: white;
+	color: rgba(232, 161, 111, 0.747);
 	text-decoration: none;
 	padding: 5px 20px;
 	font-family: "Roboto", sans-serif;
